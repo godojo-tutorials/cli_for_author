@@ -1,0 +1,88 @@
+# PROPRIETARY SOFTWARE LICENSE
+
+**Version 1.0.0**
+
+Copyright (c) 2025 GoDojo Team. All rights reserved.
+
+This software and associated documentation files (the "Software") are proprietary 
+and confidential to GoDojo Team ("Company"). This license governs the use of the 
+Software version 1.0.0 and all subsequent updates.
+
+## DISTRIBUTION AND ACCESS
+
+The Software is made available free of charge through the official GitHub repository.
+The recommended and supported method of obtaining the Software is by downloading 
+directly from the official GitHub releases page. Company does not guarantee the 
+integrity, safety, or functionality of Software obtained from third-party sources.
+
+## GRANT OF LICENSE
+
+Subject to the terms and conditions of this License, Company hereby grants you a 
+limited, non-exclusive, non-transferable, revocable license to use the Software 
+solely for the purpose of creating educational content and authoring books for 
+the GoDojo platform.
+
+## RESTRICTIONS
+
+You may not:
+1. Copy, modify, merge, publish, distribute, sublicense, or sell copies of the Software
+2. Reverse engineer, decompile, or disassemble the Software
+3. Remove or alter any proprietary notices or labels on the Software
+4. Use the Software for any commercial purpose other than content creation for GoDojo
+5. Transfer, rent, lease, or lend the Software to any third party
+6. Use the Software in connection with competing educational platforms or services
+
+## OWNERSHIP
+
+The Software is licensed, not sold. Company and its licensors retain all right, 
+title, and interest in and to the Software, including all intellectual property 
+rights therein.
+
+## DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS 
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR 
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER 
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL COMPANY BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, 
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR 
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER 
+IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGE.
+
+## TERMINATION
+
+This License is effective until terminated. Your rights under this License will 
+terminate automatically without notice from Company if you fail to comply with 
+any term(s) of this License. Upon termination, you shall cease all use of the 
+Software and destroy all copies, full or partial, of the Software.
+
+## GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws of 
+the Republic of Cyprus, without regard to its conflict of law provisions. Any 
+disputes arising under this License shall be subject to the exclusive jurisdiction 
+of the courts of Cyprus.
+
+## ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between you and Company relating 
+to the Software and supersedes all prior or contemporaneous understandings 
+regarding such subject matter.
+
+## CONTACT INFORMATION
+
+For questions regarding this license, please contact:
+- Email: support@godojo.dev
+- GoDojo Team
+
+---
+
+*This license was last updated on July 09, 2025, for Software version 1.0.0*
